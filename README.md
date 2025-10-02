@@ -1,5 +1,3 @@
-# Nome do Projeto
-
 Sistema de Gerenciamento de Pedidos - 3º Sprint
 
 ##  Integrantes do Grupo
